@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="064a5008-3b35-4aae-b2b1-cd9d8e43ccae" name="Changes" comment="factorialcalculator added">
-      <change afterPath="$PROJECT_DIR$/src/SumOfDigitsCalculator.java" afterDir="false" />
-    </list>
+    <list default="true" id="064a5008-3b35-4aae-b2b1-cd9d8e43ccae" name="Changes" comment="sumofdigitscalculator added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +55,7 @@
       <updated>1696552312832</updated>
       <workItem from="1696552313834" duration="531000" />
       <workItem from="1696552872227" duration="481000" />
-      <workItem from="1696553358426" duration="1757000" />
+      <workItem from="1696553358426" duration="2073000" />
     </task>
     <task id="LOCAL-00001" summary="PrimeNumberChecker added">
       <option name="closed" value="true" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696555208435</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="sumofdigitscalculator added">
+      <option name="closed" value="true" />
+      <created>1696555438626</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696555438626</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +142,7 @@
     <MESSAGE value="highlowgradecalculator added" />
     <MESSAGE value="fibonacciseries added" />
     <MESSAGE value="factorialcalculator added" />
-    <option name="LAST_COMMIT_MESSAGE" value="factorialcalculator added" />
+    <MESSAGE value="sumofdigitscalculator added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sumofdigitscalculator added" />
   </component>
 </project>
